@@ -1,0 +1,9 @@
+{
+  "name": "upskilling-agent",
+  "version": "0.1.0",
+  "description": "The Upskilling Agent studies new material from the internet (docs, links, videos), keeps an LLM-wiki second brain and changelog, and tests then applies what it learned to your existing skills and workflows with eval gates, snapshots, and one-command revert.",
+  "author": {
+    "name": "upskilling-agent"
+  },
+  "keywords": ["learning", "evals", "skills", "wiki", "second-brain", "workflow-updates"]
+}

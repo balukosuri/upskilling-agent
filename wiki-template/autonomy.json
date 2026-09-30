@@ -1,0 +1,8 @@
+{
+  "levels": {
+    "0": "propose only",
+    "1": "draft + evaluate + ask user to approve",
+    "2": "auto-apply if the eval gate returns AUTO_APPLY, then notify"
+  },
+  "workflows": {}
+}
